@@ -1,7 +1,7 @@
 .POSIX:
 .PHONY: all clean
 
-TARGET= GPT_Image
+TARGET= write_gpt
 CC= gcc
 CFLAGS= -std=c23 -Wall -Wextra -Wpedantic -O2
 
