@@ -2052,3 +2052,5 @@ typedef struct EFI_HII_DATABASE_PROTOCOL {
     void                               *GetPackageListHandle;
 } EFI_HII_DATABASE_PROTOCOL;
 
+#endif
+
